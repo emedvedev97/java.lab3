@@ -1,0 +1,60 @@
+19:16:17.053 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Start!
+19:16:17.056 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Stop!
+19:19:11.764 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Start!
+19:19:11.766 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Stop!
+19:19:30.265 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Start!
+19:19:30.267 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Stop!
+19:19:40.031 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Start!
+19:19:40.033 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Stop!
+19:20:10.924 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Start!
+19:20:10.926 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Stop!
+19:21:27.313 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Start!
+19:21:27.316 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Stop!
+19:22:28.722 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Start!
+19:22:28.725 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Stop!
+19:22:44.676 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Start!
+19:22:44.679 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Stop!
+19:23:16.533 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Start!
+19:23:16.535 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Stop!
+19:23:55.717 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Start!
+19:23:55.720 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Stop!
+19:24:37.459 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Start!
+19:24:37.462 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Stop!
+19:25:32.551 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Start!
+19:25:32.553 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Stop!
+19:25:51.187 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Start!
+19:25:51.189 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Stop!
+19:26:23.602 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Start!
+19:26:23.605 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Stop!
+19:28:14.193 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Start!
+19:28:14.196 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Stop!
+19:28:14.199 INFO  ru.rsatu.medvedev.generic.factory.ChildClass -  Start!
+19:28:14.199 INFO  ru.rsatu.medvedev.generic.factory.ChildClass -  Stop!
+19:28:33.770 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Start!
+19:28:33.773 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Stop!
+19:28:33.775 INFO  ru.rsatu.medvedev.generic.factory.ChildClass -  Start!
+19:28:33.776 INFO  ru.rsatu.medvedev.generic.factory.ChildClass -  Stop!
+19:28:59.402 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Start!
+19:28:59.405 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Stop!
+19:28:59.408 INFO  ru.rsatu.medvedev.generic.factory.ChildClass -  Start!
+19:28:59.408 INFO  ru.rsatu.medvedev.generic.factory.ChildClass -  Stop!
+19:30:17.270 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Start!
+19:30:17.273 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Stop!
+19:30:17.276 INFO  ru.rsatu.medvedev.generic.factory.ChildClass -  Start!
+19:30:17.276 INFO  ru.rsatu.medvedev.generic.factory.ChildClass -  Stop!
+19:30:29.464 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Start!
+19:30:29.466 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Stop!
+19:30:29.468 INFO  ru.rsatu.medvedev.generic.factory.ChildClass -  Start!
+19:30:29.469 INFO  ru.rsatu.medvedev.generic.factory.ChildClass -  Stop!
+19:30:47.161 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Start!
+19:30:47.163 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Stop!
+19:30:47.166 INFO  ru.rsatu.medvedev.generic.factory.ChildClass -  Start!
+19:30:47.166 INFO  ru.rsatu.medvedev.generic.factory.ChildClass -  Stop!
+13:19:12.988 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Start!
+13:19:12.991 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Stop!
+13:19:12.993 INFO  ru.rsatu.medvedev.generic.factory.ChildClass -  Start!
+13:19:12.993 INFO  ru.rsatu.medvedev.generic.factory.ChildClass -  Stop!
+13:23:52.307 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Start!
+13:23:52.310 INFO  ru.rsatu.medvedev.generic.factory.BaseClass - mA Stop!
+13:23:52.313 INFO  ru.rsatu.medvedev.generic.factory.ChildClass -  Start!
+13:23:52.313 INFO  ru.rsatu.medvedev.generic.factory.ChildClass -  Stop!
